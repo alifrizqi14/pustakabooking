@@ -1,8 +1,6 @@
-Class Home extends CI_Controller{
-
-    public class index()
-    {
-
+<?php
+class Home extends CI_Controller{
+    public function index(){
+        
     }
-
 }
